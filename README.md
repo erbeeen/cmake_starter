@@ -8,3 +8,6 @@ go >= 1.22.5 required
 `go build`
 
 And add the project path to $PATH variable or move the binary to /bin
+
+## Run the application using
+`cmake_starter`
