@@ -9,5 +9,5 @@ go >= 1.22.5 required
 
 And add the project path to $PATH variable or move the binary to /bin
 
-## Create the project using
+## Create a project using
 `cmake_starter`
